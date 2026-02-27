@@ -26,6 +26,8 @@
 - **Scoped:** প্রতিটি HTTP request-এ একটি instance।
 - **Singleton:** পুরো app জীবনকালে একটিই instance থাকে।
 
+[My image](/img/1720099553928.png) 
+
 ### Q5: Explain ASP.NET Core middleware pipeline.
 
 **A:** Middleware হলো এমন component যেগুলো একটি নির্দিষ্ট order-এ execute হয়। প্রতিটি middleware request handle, modify বা পরবর্তী component-এ pass করতে পারে।
