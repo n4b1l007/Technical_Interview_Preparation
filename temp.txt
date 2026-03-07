@@ -1,0 +1,25 @@
+How Javascript event loop works?
+What is the value of 'this' inside a arrow function
+
+Tell me about yourself and why you chose Software Engineering.
+Why did you choose this career path?
+What’s your design process when you start working on a particular feature?
+What skills or experiences from your competitive programming career have helped you grow as a software engineer, beyond just writing code?
+What led you to pursue a career in software engineering? 
+What's your future plan? Which role you like to see yourself?
+Tell us about your software engineering profession journey?
+
+
+
+
+
+
+
+
+I applied online. Got Called to an onSite test after 1 week. The test had ~27 MCQ and 2 basic-level problems. After another week, I was called to an online technical discussion interview. Here I was mostly asked questions related to my previous experience and projects. Some questions on lifecycle, efcore and other .NET related questions. After 2 week, I participated in an online HR and cultural fit interview, Questions were of typical HR questions like Why am I leaving my current company, How do I handle situations, etc. I was offered a position after a couple of days.
+
+Interview questions:
+dbcontext lifetime can be singelton?
+Questions regarding Projects from experience
+Why are you leaving your current company
+How do you handle a senior role and various situations
