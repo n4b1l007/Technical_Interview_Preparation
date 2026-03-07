@@ -7,8 +7,7 @@
 
 # 1. OOP কী?
 
-OOP (Object Oriented Programming) হলো একটি প্রোগ্রামিং প্যারাডাইম যেখানে
-প্রোগ্রামকে Object দিয়ে তৈরি করা হয়।
+OOP (Object Oriented Programming) হলো একটি প্রোগ্রামিং প্যারাডাইম যেখানে প্রোগ্রামকে Object দিয়ে তৈরি করা হয়।
 
 OOP এর 4টি মূল নীতি: - Encapsulation - Inheritance - Polymorphism -
 Abstraction
@@ -17,11 +16,9 @@ Abstraction
 
 # 2. Interface এবং Abstract Class এর পার্থক্য কী?
 
-**Interface:** - শুধুমাত্র method signature থাকে - Multiple inheritance
-support করে
+**Interface:** - শুধুমাত্র method signature থাকে - Multiple inheritance support করে
 
-**Abstract Class:** - Method implementation থাকতে পারে - Constructor
-থাকতে পারে
+**Abstract Class:** - Method implementation থাকতে পারে - Constructor থাকতে পারে
 
 ------------------------------------------------------------------------
 
@@ -66,8 +63,7 @@ principles অনুসরণ করে।
 
 # 7. Dependency Injection কী?
 
-Dependency Injection হলো একটি design pattern যেখানে object এর dependency
-বাইরে থেকে inject করা হয়।
+Dependency Injection হলো একটি design pattern যেখানে object এর dependency বাইরে থেকে inject করা হয়।
 
 উপকারিতা: - Loose coupling - Easy testing - Maintainability
 
@@ -106,17 +102,13 @@ app.MapControllers();
 
 Database query problem যেখানে:
 
-1টি query parent data আনে\
-তারপর প্রতিটি row এর জন্য আলাদা query চলে
-
-ফলে performance খারাপ হয়।
+1টি query parent data আনে তারপর প্রতিটি row এর জন্য আলাদা query চলে ফলে performance খারাপ হয়।
 
 ------------------------------------------------------------------------
 
 # 11. Composition Root কী?
 
-Composition Root হলো application এর সেই জায়গা যেখানে সব dependency
-configuration করা হয়।
+Composition Root হলো application এর সেই জায়গা যেখানে সব dependency configuration করা হয়।
 
 সাধারণত: - Program.cs - Startup.cs
 
@@ -144,8 +136,7 @@ Time Complexity: **O(log n)**
 
 একই method বিভিন্নভাবে behave করতে পারে।
 
-দুই ধরনের: - Compile time (method overloading) - Runtime (method
-overriding)
+দুই ধরনের: - Compile time (method overloading) - Runtime (method overriding)
 
 ------------------------------------------------------------------------
 
